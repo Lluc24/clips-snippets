@@ -18,3 +18,5 @@
     =>
     (printout t "The maximum is " ?max crlf)
 )
+
+(run)

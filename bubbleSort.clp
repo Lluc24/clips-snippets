@@ -19,3 +19,5 @@
     =>
     (printout t "The sequence ordered is " ?values crlf)
 )
+
+(run)
